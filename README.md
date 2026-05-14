@@ -21,23 +21,12 @@ AI agents · RAG systems · thoughtful product interfaces
 
 ### Selected work
 
-<p align="center">
-  <a href="https://github.com/elinawang626-design/chatdku-agentic-rag">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=elinawang626-design&repo=chatdku-agentic-rag&hide_border=true" alt="chatdku-agentic-rag" />
-  </a>
-  <a href="https://github.com/elinawang626-design/xiaoxinbao_UI">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=elinawang626-design&repo=xiaoxinbao_UI&hide_border=true" alt="xiaoxinbao_UI" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/elinawang626-design/memUBot">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=elinawang626-design&repo=memUBot&hide_border=true" alt="memUBot" />
-  </a>
-  <a href="https://github.com/elinawang626-design/Uncertainty-Aware-Reinforcement-Learning-for-Futures-Trading">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=elinawang626-design&repo=Uncertainty-Aware-Reinforcement-Learning-for-Futures-Trading&hide_border=true" alt="Uncertainty-Aware Reinforcement Learning for Futures Trading" />
-  </a>
-</p>
+| Project | Focus |
+| --- | --- |
+| [chatdku-agentic-rag](https://github.com/elinawang626-design/chatdku-agentic-rag) | Agentic RAG and knowledge workflows |
+| [xiaoxinbao_UI](https://github.com/elinawang626-design/xiaoxinbao_UI) | Chat and voice interface frontend |
+| [memUBot](https://github.com/elinawang626-design/memUBot) | Proactive AI assistant and memory systems |
+| [uncertainty-aware trading](https://github.com/elinawang626-design/Uncertainty-Aware-Reinforcement-Learning-for-Futures-Trading) | Uncertainty-aware modeling for decision support |
 
 ### Metrics
 
